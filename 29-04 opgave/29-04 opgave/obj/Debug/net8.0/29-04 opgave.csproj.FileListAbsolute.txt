@@ -1,0 +1,4 @@
+C:\Users\nidg\source\repos\tester ren\29-04 opgave\29-04 opgave\obj\Debug\net8.0\29-04 opgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidg\source\repos\tester ren\29-04 opgave\29-04 opgave\obj\Debug\net8.0\29-04 opgave.AssemblyInfoInputs.cache
+C:\Users\nidg\source\repos\tester ren\29-04 opgave\29-04 opgave\obj\Debug\net8.0\29-04 opgave.AssemblyInfo.cs
+C:\Users\nidg\source\repos\tester ren\29-04 opgave\29-04 opgave\obj\Debug\net8.0\29-04 opgave.csproj.CoreCompileInputs.cache
